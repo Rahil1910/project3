@@ -269,7 +269,7 @@ h1{
 #third{
     margin-top: 20.9px;
 }
-@media (max-width: 350px){
+@media (max-width: 400px){
     .nav-sub-container .menu-button {
         display: none;
     }
